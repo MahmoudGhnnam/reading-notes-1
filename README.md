@@ -1,7 +1,6 @@
-# **Code 201 Reading Notes** :books:
+# **Code 201 Reading Notes**
 
-## Hello! :wave: Welcome to my personal *reading notes* :notebook:. 
-
+## Hello! Welcome to my personal *reading notes*. 
 
 <br>
 <img style='float:right; padding:5px;' src="p1.png" width=150px alt='PC image'> <br>
@@ -31,7 +30,9 @@ Below is a directory of the included topics:
 1. [CSS Transforms, Transitions, and Animations]() 
 1. [What Google Learned About Teams]()
 <br><br>
----
+
+***
+
 <br>
 
 ## [Start]()
