@@ -14,7 +14,7 @@
 Below is a directory of the included topics: 
 
 
-1. [Introductory HTML and JavaScript]()
+1. [Introductory HTML and JavaScript](class-01.md)
 1. [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
 1. [HTML Lists, CSS Boxes, JS Control Flow]()
 1. [HTML Links, CSS Layout, JS Functions]()
@@ -35,5 +35,5 @@ Below is a directory of the included topics:
 
 <br>
 
-## [Start]()
+## [Start](class-01.md)
 
