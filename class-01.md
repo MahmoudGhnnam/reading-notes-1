@@ -50,6 +50,7 @@ Generally this is the layout for a `.html` page:
 
 ```
 Here are some of the main tags and their usage:
+
 |Tag | Usage|
 |---|---|
 |`<header>` |contains the information placed at the very top of the web page|
@@ -60,7 +61,9 @@ Here are some of the main tags and their usage:
 |`<section>`|single block in larger element|
 |`<hgroup>`|for grouping headers and treating them as one|
 |`<div>`|sectioning elements|
+
 <br>
+
 When thinking about your webpage, the process of creating it should go as follows:
 
 * Define your audience and understand their needs 
@@ -87,6 +90,7 @@ JavaScript makes pages more interactive and reactive, to put it simple JS will:
 A script is a series of instructions that a computer can follow to achieve a goal. To write a script you must first determine the goal you hope to achieve and the list the steps or tasks required to achieve that goal (you can sketch those in a flowchart to make them easier to follow). After you write your script you can then code each step to create a single instruction for the computer.
 
 ### Basic concepts:
+
 |Concept |Definition|
 |---|---|
 |Objects| *"In computer programming, each physical thing in the world can be represented as an object"*|
@@ -97,6 +101,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
 <br>
 
 After looking at all of the concepts above, this is how it all ties together:
+
 >*"Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties. "*
 
 <br>
